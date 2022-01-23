@@ -30,7 +30,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🧰 Frameworks and other tools
+### 🧰 Frameworks and Tools
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -41,5 +41,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=h123a456rr789y&show_icons=true&theme=solarized-light" alt="h123a456rr789y" />
+<!--
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y&show_icons=true&theme=solarized-light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h123a456rr789y&layout=compact&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/
+?username=h123a456rr789y&layout=compact&theme=solarized-light)
+-->
