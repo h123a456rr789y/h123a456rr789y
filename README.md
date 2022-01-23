@@ -3,7 +3,9 @@
 # About Me
 
 Hi there,
+
 :computer: I am Harry, a master student of computer science in NYCU, Hshichu, Taiwan.
+
 :robot_face: Interested in AI applications, especially for human motion prediction and smart sensing topics.
 
 # Skills
