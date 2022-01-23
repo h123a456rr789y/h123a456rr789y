@@ -9,7 +9,10 @@ I'm interested in AI applications, especially for human motion prediction and sm
 
 # 💻Techniques and Skills 
 ## :atom: Langauge:
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
 
 [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats)
