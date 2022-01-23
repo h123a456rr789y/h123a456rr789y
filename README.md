@@ -5,7 +5,6 @@
   - Get my Matster Degree
   - Contribute to some Open Source projects
 
-
 ## 💻Techniques and Skills
 ### :atom: Langauge:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,3 +28,11 @@
 ## Stats
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y&show_icons=true&theme=solarized-light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h123a456rr789y&layout=compact&theme=solarized-light)
+
+## Contact Me
+
+[![github](./images/github.png)](https://github.com/h123a456rr789y)
+[![linkedin](./images/linkedin.png)](https://www.linkedin.com/in/li-yu-hong-52390815b/)
+[![meta](./images/meta.png)](https://www.facebook.com/harry.hong.7)
+[![blog](./images/blog.png)](https://h123a456rr789y.github.io/)
+[![instagram](./images/instagram.png)](https://www.instagram.com/harry_851025/)
