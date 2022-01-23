@@ -5,7 +5,7 @@
   - Get my Matster Degree
   - Contribute to some Open Source projects
 
-## 🤝 Contact Me
+## 🤝 Contact with Me
 <a href="https://github.com/h123a456rr789y"><img align="left" src="./images/github.png" alt="Harry | GitHub" width="21px"/></a>
 <a href="https://www.instagram.com/harry_851025/"><img align="left" src="./images/instagram.png" alt="Harry | Instagram" width="21px"/></a>
 <a href="https://h123a456rr789y.github.io/"><img align="left" src="./images/blog.png" alt="Harry | Blog" width="21px"/></a>
