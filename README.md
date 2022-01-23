@@ -28,5 +28,4 @@
 
 ## Stats
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y&show_icons=true&theme=solarized-light)
-
-<!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h123a456rr789y&layout=compact)
