@@ -1,16 +1,18 @@
-### Hi there firends👋
 
-<!--
-**h123a456rr789y/h123a456rr789y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there,
+:computer: I am Harry, a master student of computer science in NYCU, Hshichu, Taiwan.
+:robot_face: Interested in AI applications, especially for human motion prediction and smart sensing topics.
+
+# Skills
+- Programming Language : C/C++, Python
+- Database: MySQL
+- Other CS skills: Docker, Linux, Git, Raspberry Pi and a variety of sensors’ application
+
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
