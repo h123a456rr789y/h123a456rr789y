@@ -6,7 +6,7 @@
   - Contribute to some Open Source projects
 
 
-## 💻Techniques and Skills 
+## 💻Techniques and Skills
 ### :atom: Langauge:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -27,7 +27,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Stats
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats)
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y&show_icons=true&theme=Gradient)
 
-
-
+<!-- [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats) -->
