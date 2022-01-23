@@ -1,11 +1,10 @@
-
-
 # About Me
-
-Hi there,
+Hi there 👋,
 
 I am Harry, a master student of computer science in NYCU, Hshichu, Taiwan.
 I'm interested in AI applications, especially for human motion prediction and smart sensing topics.
+
+
 
 # 💻Techniques and Skills 
 ## :atom: Langauge:
@@ -27,8 +26,7 @@ I'm interested in AI applications, especially for human motion prediction and sm
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-
+## Stats
 [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h123a456rr789y)](https://github.com/anuraghazra/github-readme-stats)
 
