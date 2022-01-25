@@ -66,23 +66,28 @@
 
 
 ## Experience
-<img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<!--<img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+-->
 - ⌨️ **Software Engineering Intern**\
 📆  Jul. 2021 – Aug. 2021\
 📍 **MediaTek Inc.** -  Hsinchu, Taiwan
-
+<!--
 <img align="right" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+-->
 - ⌨️ **Software Engineering Intern**\
 📆  Jul. 2019 – Aug. 2019\
 📍 **ITRI** - Hsinchu, Taiwan
 
+
+<!--
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+-->
 - 👨‍💻 **Teaching Assistant**\
 📖 **Introduction to Embedded Systems Design and Implementation**\
 📖 **IoT Devices and Platforms**
