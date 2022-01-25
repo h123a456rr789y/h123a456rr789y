@@ -97,9 +97,11 @@
 📖 **Undergraduate Exchange** - Business Informatic, Mannheim University, Germany\
 📖 **Rotary Youth Exchange** -  Gymnasium, Esens,Germany
 
-## 🪦 **Selected Projects**\
+<!--
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+-->
+## 🪦 **Selected Projects**\
 - 📂 **IMU Guided Human Motion Prediction and Tracking under Complete Occlusion** \
   - 📆 Oct. 2021 – Present\
 - 📂 **UPDRS Level Detection with Human Pose Estimation and Analysis** \
