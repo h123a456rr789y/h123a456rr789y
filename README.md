@@ -10,6 +10,7 @@
 <a href="https://www.instagram.com/harry_851025/"><img align="left" src="./images/instagram.png" alt="Harry | Instagram" width="25px"/></a>
 <a href="https://h123a456rr789y.github.io/"><img align="left" src="./images/blog.png" alt="Harry | Blog" width="25px"/></a>
 <a href="https://www.linkedin.com/in/li-yu-hong-52390815b/"><img align="left" src="./images/linkedin.png" alt="Harry | Linkedin" width="25px"/></a>
+<a href="https://github.com/h123a456rr789y/h123a456rr789y/blob/main/images/LiYu_CV.pdf"><img align="left" src="./images/CV.png" alt="Harry | CV" width="25px"/></a>
 </br>
 <!--
 [![github](./images/github.png)](https://github.com/h123a456rr789y)
@@ -17,6 +18,7 @@
 [![meta](./images/meta.png)](https://www.facebook.com/harry.hong.7)
 [![blog](./images/blog.png)](https://h123a456rr789y.github.io/)
 [![instagram](./images/instagram.png)](https://www.instagram.com/harry_851025/)
+[![cv](./images/CV.png)]()
 -->
 
 
