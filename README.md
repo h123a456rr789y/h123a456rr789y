@@ -3,6 +3,7 @@
 - 🤖 I'm interested in AI applications, especially for human motion prediction and smart sensing topics.
 - ⭐ 2022 Goals:
   - Get my Matster Degree
+  - Accepted on Top Conference of Computer Vision 
   - Contribute to some Open Source projects
 
 ## 🤝 Contact with Me
