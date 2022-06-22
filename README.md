@@ -1,6 +1,7 @@
 ## Hi there 👋, I am Harry
 - 🎓 I am a master student of computer science in National Yang Ming Chiao Tung University, Taiwan.
 - 🤖 I'm interested in AI applications, especially for human motion prediction and smart sensing topics.
+- 👍 Specialized in 2D and 3D human pose related applications. 
 - ⭐ 2022 Goals:
   - Get my Matster Degree
   - Accepted on Top Conference of Computer Vision 
