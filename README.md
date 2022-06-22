@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Harry
-- 🎓 I am a master student of computer science in National Yang Ming Chiao Tung University,Taiwan.
+- 🎓 I am a master student of computer science in National Yang Ming Chiao Tung University, Taiwan.
 - 🤖 I'm interested in AI applications, especially for human motion prediction and smart sensing topics.
 - ⭐ 2022 Goals:
   - Get my Matster Degree
@@ -96,9 +96,8 @@
 📖 **IoT Devices and Platforms**
 
 - 🇩🇪 **Exchange Programs**\
-📖 **Visiting Scholar** - Informatic, TU Dortmund, Germany\
 📖 **Undergraduate Exchange** - Business Informatic, Mannheim University, Germany\
-📖 **Rotary Youth Exchange** -  Gymnasium, Esens,Germany
+📖 **Rotary Youth Exchange** -  Gymnasium, Esens, Germany
 
 <!--
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
